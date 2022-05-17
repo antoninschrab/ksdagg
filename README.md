@@ -1,6 +1,6 @@
 # Code for KSDAgg: a KSD aggregated goodness-of-fit test
 
-This is a temporary GitHub repository which has been anonymised at [https://anonymous.4open.science/r/ksdagg-3EC3](https://anonymous.4open.science/r/ksdagg-3EC3).
+This is a temporary GitHub repository which has been anonymised at [https://anonymous.4open.science/r/ksdagg-DBF7/README.md](https://anonymous.4open.science/r/ksdagg-DBF7/README.md).
 It contains the code for the reproducible experiments presented in our paper 
 KSD Aggregated Goodness-of-fit Test:
 - Gamma distribution experiment,
