@@ -36,6 +36,10 @@ def ksdagg(
     return 0 if the test fails to reject the null (i.e. fits the data), 
     or return 1 if the test rejects the null (i.e. does not fit the data).
     
+    Fixing the sample size and the dimension, the first time the function is
+    run it is getting compiled. After that, the function can fastly be evaluated 
+    on any data with the same sample size and dimension.
+    
     Parameters
     ----------
     X : array_like
